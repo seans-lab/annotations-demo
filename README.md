@@ -2,5 +2,4 @@
 
 Code Commit
 
-Adding a code commit.
-Adding code
+I am removing code
